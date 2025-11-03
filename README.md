@@ -1,6 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-# give instructions to that all useful instrucrtions
 
 Here are clear, step-by-step instructions for your students to create a GitHub repository, push their code and text answers, and share the link with you. These instructions will help them learn essential version control skills and ensure smooth submission of their assignments.[^1][^2][^3][^4][^5]
 
@@ -109,3 +106,4 @@ Following these steps will help you submit your assignment correctly and introdu
 
 [^5]: https://stackoverflow.com/questions/75663866/how-can-students-update-their-github-classroom-assignment-repository
 
+<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
